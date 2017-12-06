@@ -10,19 +10,19 @@ This application can help the end user determine whether a year is a leap year o
 
 ## Specs  
 
-# A year is not a leap year if it is not divisible by 4  
+### A year is not a leap year if it is not divisible by 4  
 Example input: 1993  
 Example output: false  
 
-# A year is a leap year if it is divisible by 4  
+### A year is a leap year if it is divisible by 4  
 Example input: 2004  
 Example output: true  
 
-# A year is not a leap year if it is divisible by 100  
+### A year is not a leap year if it is divisible by 100  
 Example input: 1900  
 Example output: false  
 
-# A year is a leap year if it is divisible by 400  
+### A year is a leap year if it is divisible by 400  
 Example input: 2000  
 Example output: true  
 
