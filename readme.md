@@ -6,7 +6,25 @@
 
 ## Description
 
-This application can help the end user determine whether a year is a leap year or not. If a year is divisible by 4, it's a leap year, but if it's divisible by 100, it is not a leap year. However, if it's divisible by 400, it is a leap year. Just open index.html in your favorite browser after downloading or cloning from GitHub, and have fun!
+This application can help the end user determine whether a year is a leap year or not. Just open index.html in your favorite browser after downloading or cloning from GitHub, and have fun!
+
+## Specs  
+
+# A year is not a leap year if it is not divisible by 4  
+Example input: 1993  
+Example output: false  
+
+# A year is a leap year if it is divisible by 4  
+Example input: 2004  
+Example output: true  
+
+# A year is not a leap year if it is divisible by 100  
+Example input: 1900  
+Example output: false  
+
+# A year is a leap year if it is divisible by 400  
+Example input: 2000  
+Example output: true  
 
 ## Technologies used:
 
